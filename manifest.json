@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "justin.ankerctl",
   "name": "Ankerctl",
-  "version": "1.0.0",
+  "version": "2026.09.1",
   "author": "Justin",
   "license": "MIT",
   "description": "Start and stop the Ankerctl bridge OrcaSlicer uses to send jobs to an AnkerMake M5.",
