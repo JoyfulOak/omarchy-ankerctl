@@ -2,7 +2,7 @@
 
 Omarchy bar plugin for controlling the user-level `ankerctl.service` bridge used by OrcaSlicer and an AnkerMake M5.
 
-The plugin currently appears in the bar as `justin.ankerctl`.
+
 
 ## Features
 
